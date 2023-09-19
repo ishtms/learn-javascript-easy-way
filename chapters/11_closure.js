@@ -1,6 +1,3 @@
-/**
- * This function serves as a comprehensive example for understanding closures in JavaScript.
- */
 function closures() {
     /**
      * ========================================================

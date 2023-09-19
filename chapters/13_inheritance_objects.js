@@ -1,7 +1,3 @@
-/**
- * This function illustrates different forms and nuances of inheritance in JavaScript using objects and prototypes.
- * It covers the Object.create() method, prototype chaining, constructor function inheritance, and other relevant concepts.
- */
 function inheritanceWithObjects() {
     /**
      * ========================================================

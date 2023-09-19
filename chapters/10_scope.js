@@ -1,6 +1,3 @@
-/**
- * This function demonstrates various aspects of variable scoping in JavaScript.
- */
 function scopes() {
     /**
      * ========================================================

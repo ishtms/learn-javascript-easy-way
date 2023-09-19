@@ -1,5 +1,4 @@
 /**
- * This function demonstrates the usage of call(), apply(), and bind() methods in JavaScript.
  * These methods allow for the manipulation of the 'this' keyword, as well as for borrowing and reusing methods across objects.
  */
 function callApplyBind() {

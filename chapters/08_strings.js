@@ -1,6 +1,3 @@
-/**
- * This function demonstrates various operations and features related to strings in JavaScript.
- */
 function strings() {
     /**
      * ========================================================

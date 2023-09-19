@@ -1,5 +1,4 @@
 /**
- * This function demonstrates the intricacies and functionalities of the spread and rest operators in JavaScript.
  * Spread Operator: Expands an iterable (array, string, etc.) into its elements.
  * Rest Operator: Collects remaining elements or properties into an array or object.
  */

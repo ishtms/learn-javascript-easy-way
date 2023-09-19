@@ -1,7 +1,3 @@
-/**
- * This function demonstrates various aspects of inheritance in JavaScript.
- * It covers topics such as extending classes, overriding methods, and calling superclass methods.
- */
 function inheritance() {
     /**
      * ========================================================

@@ -1,6 +1,3 @@
-/**
- * This function encapsulates a demonstration of various debugging techniques in JavaScript.
- */
 function debugging() {
     /**
      * ========================================================

@@ -1,6 +1,3 @@
-/**
- * This function serves as a comprehensive example for understanding various types of functions in JavaScript.
- */
 function functions() {
     /**
      * ========================================================

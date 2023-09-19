@@ -1,6 +1,5 @@
 /**
- * This function showcases the different nuances and functionalities of the `this` keyword in JavaScript.
- * The keyword refers to the object it belongs to, and its value can differ based on how it's used.
+ * The `this` keyword refers to the object it belongs to, and its value can differ based on how it's used.
  */
 function thisKeyword() {
     /**

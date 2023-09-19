@@ -1,7 +1,3 @@
-/**
- * This function demonstrates various aspects of classes in JavaScript, including inheritance,
- * instance creation, and usage of class features.
- */
 function classes() {
     /**
      * ========================================================

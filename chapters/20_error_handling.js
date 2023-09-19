@@ -1,5 +1,4 @@
 /**
- * This function demonstrates key concepts around error handling in JavaScript.
  * Error handling allows you to gracefully handle exceptions and continue the program's execution.
  */
 function errorHandling() {

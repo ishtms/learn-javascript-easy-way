@@ -1,8 +1,3 @@
-/**
- * This function demonstrates various forms of destructuring in JavaScript.
- * It includes array destructuring, object destructuring, destructuring with default values,
- * and nested destructuring.
- */
 function destructuring() {
     /**
      * ========================================================

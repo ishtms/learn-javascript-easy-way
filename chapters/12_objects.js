@@ -1,6 +1,3 @@
-/**
- * This function showcases a comprehensive set of aspects and usages of objects in JavaScript.
- */
 function objects() {
     /**
      * ========================================================
