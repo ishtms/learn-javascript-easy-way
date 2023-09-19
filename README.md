@@ -70,7 +70,6 @@ You may also check out my other repository - [Learn Node.js - The Hard Way](http
 -   Custom Events
 -   WebRTC
 -   LocalStorage, SessionStorage, and Cookies
--   Data Attributes in HTML
 -   FormData
 -   Dynamic Import
 -   Decorators
