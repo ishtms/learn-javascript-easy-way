@@ -67,6 +67,8 @@ import myDefaultFunction from "./myModule.js";
  * ------------------
  * Dynamic imports enable you to load modules on demand using `import()`.
  * This returns a promise that resolves into the imported module.
+ *
+ * We have a dedicated chapter on dynamic imports.
  */
 const modulePath = "./myModule.js";
 import(modulePath)

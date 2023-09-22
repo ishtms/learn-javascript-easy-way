@@ -7,13 +7,13 @@ function objects() {
      * Objects can have properties and methods (functions as properties).
      */
     const person = {
-        name: "Alice",
+        name: "Ishtmeet",
         age: 30,
         greet() {
             return `Hello, ${this.name}`;
         },
     };
-    console.log(person.greet()); // Outputs: "Hello, Alice"
+    console.log(person.greet()); // Outputs: "Hello, Ishtmeet"
 
     /**
      * ========================================================
@@ -32,7 +32,7 @@ function objects() {
      * New properties can be added and existing properties can be updated.
      * This showcases the dynamic nature of JavaScript objects.
      */
-    person.email = "alice@example.com";
+    person.email = "ishtmeet@example.com";
     person["age"] = 31;
     console.log(person); // Outputs updated object
 
@@ -77,7 +77,7 @@ function objects() {
      * This feature was introduced in ES6 and is often used for better readability.
      */
     const { name, age } = person;
-    console.log(name, age); // Outputs: "Alice 31"
+    console.log(name, age); // Outputs: "Ishtmeet 31"
 
     /**
      * ========================================================

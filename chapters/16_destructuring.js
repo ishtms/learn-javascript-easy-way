@@ -19,8 +19,8 @@ function destructuring() {
      * ========================================================
      * You can provide default values for both array and object destructuring.
      */
-    const { name = "John" } = {};
-    console.log(name); // Outputs 'John'
+    const { name = "Ishtmeet" } = {};
+    console.log(name); // Outputs 'Ishtmeet'
 
     /**
      * ========================================================
@@ -57,7 +57,7 @@ function destructuring() {
     function greet({ name, age }) {
         console.log(`Hello, ${name}. You are ${age} years old.`);
     }
-    greet({ name: "Alice", age: 25 }); // Outputs "Hello, Alice. You are 25 years old."
+    greet({ name: "Ishtmeet", age: 25 }); // Outputs "Hello, Ishtmeet. You are 25 years old."
 
     /**
      * ========================================================

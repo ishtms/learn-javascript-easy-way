@@ -1,6 +1,6 @@
 /*
  * ========================================================
- * Math Object in JavaScript
+ * Math Object
  * ========================================================
  * The Math object provides static properties and methods for mathematical constants and functions.
  * It doesn't need to be instantiated.

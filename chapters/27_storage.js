@@ -12,9 +12,9 @@
  * ========================================================
  * localStorage allows you to store data with no expiration time. This data will persist even after closing the browser.
  */
-localStorage.setItem("username", "JohnDoe");
+localStorage.setItem("username", "IshtmeetDoe");
 const username = localStorage.getItem("username");
-console.log(`Username: ${username}`); // Output: Username: JohnDoe
+console.log(`Username: ${username}`); // Output: Username: IshtmeetDoe
 localStorage.removeItem("username");
 
 /**
@@ -34,8 +34,8 @@ sessionStorage.removeItem("sessionId");
  * ========================================================
  * Both localStorage and sessionStorage provide a way to iterate over stored items.
  */
-localStorage.setItem("username", "JohnDoe");
-localStorage.setItem("email", "john.doe@example.com");
+localStorage.setItem("username", "IshtmeetDoe");
+localStorage.setItem("email", "ishtmeet.doe@example.com");
 for (let i = 0; i < localStorage.length; i++) {
     const key = localStorage.key(i);
     const value = localStorage.getItem(key);
@@ -63,10 +63,10 @@ window.addEventListener("storage", function (event) {
  * -----------------------
  * Both localStorage and sessionStorage can only directly store strings. To store objects or arrays, serialize them to JSON.
  */
-const user = { name: "JohnDoe", age: 30 };
+const user = { name: "IshtmeetDoe", age: 30 };
 localStorage.setItem("user", JSON.stringify(user));
 const retrievedUser = JSON.parse(localStorage.getItem("user"));
-console.log(retrievedUser); // Output: { name: 'JohnDoe', age: 30 }
+console.log(retrievedUser); // Output: { name: 'IshtmeetDoe', age: 30 }
 
 /**
  * 2. Storage Limit

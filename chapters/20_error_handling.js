@@ -11,7 +11,7 @@ function errorHandling() {
      */
     try {
         // Code that could possibly throw an error goes here
-        const x = JSON.parse('{"name": "John"}');
+        const x = JSON.parse('{"name": "Ishtmeet"}');
     } catch (e) {
         // Code to execute if an exception occurs in the try block
         console.error("An error occurred:", e);

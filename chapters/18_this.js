@@ -30,9 +30,9 @@ function thisKeyword() {
      * In a method, which is a function stored as an object property, `this` refers to the object.
      */
     const obj = {
-        name: "Alice",
+        name: "Ishtmeet",
         greet: function () {
-            console.log(`Hello, my name is ${this.name}`); // Outputs "Hello, my name is Alice"
+            console.log(`Hello, my name is ${this.name}`); // Outputs "Hello, my name is Ishtmeet"
         },
     };
     obj.greet();
@@ -69,8 +69,8 @@ function thisKeyword() {
     function showName(label) {
         console.log(`${label}: ${this.name}`);
     }
-    const alice = { name: "Alice" };
-    showName.call(alice, "User"); // Outputs "User: Alice"
+    const ishtmeet = { name: "Ishtmeet" };
+    showName.call(ishtmeet, "User"); // Outputs "User: Ishtmeet"
 
     /**
      * ========================================================

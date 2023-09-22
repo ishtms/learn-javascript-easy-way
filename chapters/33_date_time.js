@@ -81,7 +81,7 @@ const utcHours = now.getUTCHours();
  *
  * NOTE: Some browsers may return the below as a valid date, setting date to the 00:00:00 Jan 1, 2014
  */
-const invalidDate = new Date("john-doe 2014").toString();
+const invalidDate = new Date("ishtmeet-doe 2014").toString();
 
 /**
  * 4. Leap Year Considerations

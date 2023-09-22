@@ -13,7 +13,7 @@ function callApplyBind() {
         console.log(`${this.title} ${firstname} ${lastname}`);
     }
     const person1 = { title: "Mr." };
-    showFullName.call(person1, "John", "Doe"); // Outputs: "Mr. John Doe"
+    showFullName.call(person1, "Ishtmeet", "Doe"); // Outputs: "Mr. Ishtmeet Doe"
 
     /**
      * ========================================================

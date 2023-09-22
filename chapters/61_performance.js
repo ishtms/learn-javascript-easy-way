@@ -1,6 +1,6 @@
 /*
  * ========================================================
- * Performance Optimization in JavaScript
+ * Performance Optimization
  * ========================================================
  * JavaScript performance optimization is crucial for responsive and efficient web apps.
  * Here, we look at various techniques to improve the performance of your JavaScript code.

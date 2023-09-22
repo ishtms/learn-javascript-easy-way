@@ -1,6 +1,6 @@
 /**
  * ========================================================
- * Template Literals in JavaScript
+ * Template Literals
  * ========================================================
  */
 
@@ -16,8 +16,8 @@
 const str = `Hello, world!`;
 
 // String with variables
-const name = "John";
-const greeting = `Hello, ${name}!`; // Output: "Hello, John!"
+const name = "Ishtmeet";
+const greeting = `Hello, ${name}!`; // Output: "Hello, Ishtmeet!"
 
 // String with expressions
 const x = 10,
@@ -46,7 +46,7 @@ const multiLineStr = `
 
 function myTag(strings, ...values) {
     console.log(strings); // Outputs: Array of string literals like ["Hello ", ", the sum is ", "."]
-    console.log(values); // Outputs: Array of evaluated expressions like ["John", 30]
+    console.log(values); // Outputs: Array of evaluated expressions like ["Ishtmeet", 30]
     return "Modified String";
 }
 
@@ -62,14 +62,14 @@ const tagged = myTag`Hello ${name}, the sum is ${x + y}.`; // Calls myTag functi
  * 1. Nesting Template Literals
  */
 // Template literals can be nested within another template literal.
-const nested = `outer ${`inner ${name}`}`; // Output: "outer inner John"
+const nested = `outer ${`inner ${name}`}`; // Output: "outer inner Ishtmeet"
 
 /**
  * 2. Raw Strings
  *
  * The String.raw tag function allows you to treat backslashes as literal characters.
  */
-const rawStr = String.raw`This is a raw string \n ${name}.`; // Output: "This is a raw string \n John"
+const rawStr = String.raw`This is a raw string \n ${name}.`; // Output: "This is a raw string \n Ishtmeet"
 
 /**
  * 3. Custom Interpolators
