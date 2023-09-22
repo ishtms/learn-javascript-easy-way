@@ -86,11 +86,6 @@ There are more complex topics that I would like to cover in this repository. I w
 ## More chapters (on demand)
 
 If you would like to see more chapters on any specific topic, please feel free to open an issue or create a discussion. I will be happy to add more chapters to this repository.
-
----
-
-I am committed to providing you with the best content, with easy-to-understand explanations and well-organized code snippets. If you have any questions or suggestions, please feel free to open issues, create a discussion or submit pull requests. Happy learning!
-
 ---
 
 **Note:** This README serves as an index for the chapters available in the repository. You can click on the chapter titles to access the corresponding JavaScript files for learning.
