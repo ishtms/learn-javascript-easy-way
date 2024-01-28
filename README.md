@@ -1,5 +1,7 @@
 # Learn Javascript - The Easy Way
 
+> :warning: **Live stream**: The content of this repo, as well as the [backend framework](https://github.com/ishtms/learn-nodejs-hard-way) we're building, is being live-streamed on [YouTube](https://youtube.com/@ishtms).
+
 This guide is designed to provide you with a thorough understanding of JavaScript, from the basics to advanced topics. Whether you're a beginner or an experienced developer, this repository will guide you through the world of JavaScript using clear explanations and well-commented code examples.
 
 You may also check out my other repository - [Learn Node.js - The Hard Way](https://github.com/ishtms/learn-nodejs-hard-way) that takes you on a deep journey into Node.js. We build a completely functional and production ready backend framework and a logging/tracing library - all with 0 dependencies (no npm install!)
